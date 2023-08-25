@@ -50,10 +50,10 @@
       <recent name="E:\demo\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PeepleFactory">
+  <component name="RunManager" selected="Application.DemoApplication">
     <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.DemoApplication" />
-      <module name="demo" />
+      <module name="jialiang-demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.*" />
@@ -79,8 +79,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PeepleFactory" />
         <item itemvalue="Application.DemoApplication" />
+        <item itemvalue="Application.PeepleFactory" />
       </list>
     </recent_temporary>
   </component>
